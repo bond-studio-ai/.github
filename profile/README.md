@@ -5,10 +5,6 @@
 - [`action-authenticate`](https://github.com/bond-studio-ai/action-authenticate): Initializes authenticated actions and provides access to app token and PULUMI_ACCESS_TOKEN env variable.
 - [`action-decrypt-file`](https://github.com/bond-studio-ai/action-decrypt-file): Decrypts a file using OpenPGP
 
-## Demo
-
-- [`demo-repository`](https://github.com/bond-studio-ai/demo-repository): A code repository designed to show the best GitHub has to offer.
-
 ## Documentation
 
 - [`documentation-wiki`](https://github.com/bond-studio-ai/documentation-wiki): Contains documentation related to infrastructure, provisioning and user access to resources.
