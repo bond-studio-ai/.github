@@ -76,7 +76,7 @@
 - [`unity-package-room-visualizer`](https://github.com/bond-studio-ai/unity-package-room-visualizer): Unity package that shows a 3D view of rooms.
 - [`unity-package-airtable`](https://github.com/bond-studio-ai/unity-package-airtable): Unity package to make calls to the Airtable API.
 - [`unity-model-checker`](https://github.com/bond-studio-ai/unity-model-checker): Command line tools built in Unity to validate models.
-- [`unity-layout-view-generator`](https://github.com/bond-studio-ai/unity-layout-view-generator): Command line tool built in Unity to generate layout view images from room data.
+- [`unity-layout-capture`](https://github.com/bond-studio-ai/unity-layout-capture): Command line tool built in Unity to generate layout view images from room data.
 - [`unity-visual-checker-tool`](https://github.com/bond-studio-ai/unity-visual-checker-tool): Unity tool for visual checking of 3D models and designs.
 - [`unity-package-server-common`](https://github.com/bond-studio-ai/unity-package-server-common): Unity package for server-side applications.
 - [`unity-package-draco-compression`](https://github.com/bond-studio-ai/unity-package-draco-compression): Unity package that provides Draco compression for 3D models.
