@@ -70,6 +70,7 @@
 - [`model-pipeline`](https://github.com/bond-studio-ai/model-pipeline): Tools to build asset bundles and manage the catalog.
 - [`unity-addressables`](https://github.com/bond-studio-ai/unity-addressables): Assets that get published as Unity Addressable bundles.
 - [`unity-addressables-lowes`](https://github.com/bond-studio-ai/unity-addressables-lowes): Lowe's assets that get published as Unity Addressable bundles.
+- [`unity-addressables-clay`](https://github.com/bond-studio-ai/unity-addressables-clay)
 - [`unity-bond-cli`](https://github.com/bond-studio-ai/unity-bond-cli): Command line tool and utility scripts to manage Unity repositories.
 - [`unity-ios-configurator`](https://github.com/bond-studio-ai/unity-ios-configurator): App configurator built in Unity.
 - [`unity-layout-capture`](https://github.com/bond-studio-ai/unity-layout-capture): Command line tool built in Unity to generate layout view images from room data.
