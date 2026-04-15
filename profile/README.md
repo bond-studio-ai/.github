@@ -79,6 +79,7 @@
 - [`unity-package-airtable`](https://github.com/bond-studio-ai/unity-package-airtable): Unity package to make calls to the Airtable API.
 - [`unity-package-aws`](https://github.com/bond-studio-ai/unity-package-aws): Unity package for talking to Amazon AWS services.
 - [`unity-package-bond-core`](https://github.com/bond-studio-ai/unity-package-bond-core): Unity package that provides common classes that projects / packages share.
+- [`unity-package-build-plans`](https://github.com/bond-studio-ai/unity-package-build-plans): Unity package that shows 2D orthographic views of rooms.
 - [`unity-package-command-line`](https://github.com/bond-studio-ai/unity-package-command-line): Unity package to help make command line applications.
 - [`unity-package-draco-compression`](https://github.com/bond-studio-ai/unity-package-draco-compression): Unity package that provides Draco compression for 3D models.
 - [`unity-package-layout-view`](https://github.com/bond-studio-ai/unity-package-layout-view): Unity package that shows a top-down 2D view of rooms.
