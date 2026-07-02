@@ -53,7 +53,6 @@
 ## Service
 
 - [`service-catalog`](https://github.com/bond-studio-ai/service-catalog): Service for managing product catalog data.
-- [`service-prototype-monolith`](https://github.com/bond-studio-ai/service-prototype-monolith): Monolithic service prototype for testing purposes.
 - [`service-room`](https://github.com/bond-studio-ai/service-room): Service for returning room data
 - [`service-api-gateway`](https://github.com/bond-studio-ai/service-api-gateway): API Gateway for routing requests to various services.
 - [`service-users`](https://github.com/bond-studio-ai/service-users): The users service manages info about people & organizations who use our software
