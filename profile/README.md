@@ -8,6 +8,7 @@
 ## Documentation
 
 - [`documentation-wiki`](https://github.com/bond-studio-ai/documentation-wiki): Contains documentation related to infrastructure, provisioning and user access to resources.
+- [`service-logging-standard`](https://github.com/bond-studio-ai/.github/blob/main/docs/observability/service-logging-standard.md): Logging contract for active Bond services, jobs, workflows, mobile apps, and runtime workloads.
 
 ## Experimental
 
