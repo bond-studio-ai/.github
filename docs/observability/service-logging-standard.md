@@ -183,6 +183,5 @@ A repo is logging-compliant when:
 5. Raw console/print/debug emitters are removed from runtime paths or proven to be dev-only/test-only.
 6. Successful inbound request completion logs are removed unless they carry domain value not present in traces.
 7. Large payload and PII logging is removed or redacted.
-8. The service can be queried in Grafana Loki by `service_name`, `deployment_environment_name`, and `event.name`.
+8. The service can be queried in Grafana Loki by `service_name`, `deployment_environment_name`, and the normalized `event_name` label.
 9. The service can jump from a relevant log event to the associated Tempo trace when trace context exists.
-
