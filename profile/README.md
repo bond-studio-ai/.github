@@ -86,7 +86,7 @@
 - [`unity-package-room-visualizer`](https://github.com/bond-studio-ai/unity-package-room-visualizer): Unity package that shows a 3D view of rooms.
 - [`unity-package-server-common`](https://github.com/bond-studio-ai/unity-package-server-common): Unity package for server-side applications.
 - [`unity-package-shapes`](https://github.com/bond-studio-ai/unity-package-shapes): Third party Unity package for drawing vector graphics.
-- [`unity-room-processor`](https://github.com/bond-studio-ai/unity-room-processor): Unity project that processes room data and generates 3D models.
+- [`unity-room-processor`](https://github.com/bond-studio-ai/unity-room-processor) *(archived)*: Retired Unity room processor, replaced by [`service-scan-processor`](https://github.com/bond-studio-ai/service-scan-processor).
 - [`unity-server-side-renderer`](https://github.com/bond-studio-ai/unity-server-side-renderer): Unity project that generates photorealistic renders of rooms.
 - [`unity-visual-checker-tool`](https://github.com/bond-studio-ai/unity-visual-checker-tool): Unity tool for visual checking of 3D models and designs.
 - [`unity-web-configurator`](https://github.com/bond-studio-ai/unity-web-configurator): Browser-based configurator built in Unity.
