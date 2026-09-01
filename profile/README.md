@@ -93,6 +93,7 @@
 
 ## Web
 
+- [`web-admin`](https://github.com/bond-studio-ai/web-admin): Unified admin web application for Bond internal tools.
 - [`web-internal`](https://github.com/bond-studio-ai/web-internal): Internal web application for managing catalog and rooms.
 - [`web-app`](https://github.com/bond-studio-ai/web-app): Web application for the room design studio.
 - [`web-modeling-3d-viewer`](https://github.com/bond-studio-ai/web-modeling-3d-viewer): 3D viewer to visualize models within the room design studio in web.
