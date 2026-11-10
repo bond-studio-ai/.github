@@ -33,7 +33,7 @@
 
 ## Mobile
 
-- [`mobile-design-studio`](https://github.com/bond-studio-ai/mobile-design-studio) *(archived)*: Mobile application for the room design studio. Replaced by [`mobile-design-studio-v2`](https://github.com/bond-studio-ai/mobile-design-studio-v2).
+- [`mobile-design-studio`](https://github.com/bond-studio-ai/mobile-design-studio) *(archived)*: Mobile application for the room design studio.
 
 ## Package
 
