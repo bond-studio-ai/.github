@@ -1,6 +1,4 @@
-# Bond Studio AI
-
-Most of our repositories are private. Organization members see a members-only version of this page with an index of active repositories.
+# Bond Studio
 
 ## Documentation
 
